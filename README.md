@@ -5,7 +5,7 @@ Requirements
 
 Installation and usage
 1. Place recidivism_full.csv in your working directory.
-2. Run the script or notebook containing the provided code. The top block will attempt to pip-install missing dependencies automatically. To install manually:
+2. Run the script containing the provided code. The top block will attempt to pip-install missing dependencies automatically. To install manually:
 	pip install scikit-learn pandas numpy matplotlib shap dice-ml plotly scipy tqdm seaborn
 3. Run the notebook cells in order.
 
